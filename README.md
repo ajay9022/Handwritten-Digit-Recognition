@@ -8,3 +8,5 @@ A-Z handwritten characters with 3700000 samples in training dataset in total
 Each number represents an alphabet from 0-25(A-Z).
 
 It is built using tensorflow.
+
+The dataset has been picked from : https://www.kaggle.com/ashishguptajiit/handwritten-az/home
